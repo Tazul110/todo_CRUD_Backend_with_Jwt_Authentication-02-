@@ -17,13 +17,13 @@ namespace Todo_backEnd.Controllers.LogInController
     public class LoginController : ControllerBase
     {
         private IConfiguration _config;
-        private readonly IGetUserByEmailServ _user;
+        private readonly IGetUserByEmailServ _userServ;
         
 
         public LoginController(IConfiguration configuration, IGetUserByEmailServ user)
         {
             _config = configuration;
-            _user = user;
+            _userServ = user;
            
         }
 
@@ -48,7 +48,7 @@ namespace Todo_backEnd.Controllers.LogInController
             IActionResult response = Unauthorized();
 
 
-            var user_ = _user.AuthenticateUser(connection,user);
+            var user_ = _userServ.AuthenticateUser(connection,user);
             if (user_ != null)
             {
                 var token = GenerateToken(user_);

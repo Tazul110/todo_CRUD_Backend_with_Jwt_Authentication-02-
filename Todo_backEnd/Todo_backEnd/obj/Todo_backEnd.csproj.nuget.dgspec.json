@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Todo29.2.2024\\Todo_backEnd\\Todo_backEnd\\Todo_backEnd.csproj": {}
+    "D:\\Todo01.03.2024\\Todo_backEnd\\Todo_backEnd\\Todo_backEnd.csproj": {}
   },
   "projects": {
-    "D:\\Todo29.2.2024\\Todo_backEnd\\Todo_backEnd\\Todo_backEnd.csproj": {
+    "D:\\Todo01.03.2024\\Todo_backEnd\\Todo_backEnd\\Todo_backEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Todo29.2.2024\\Todo_backEnd\\Todo_backEnd\\Todo_backEnd.csproj",
+        "projectUniqueName": "D:\\Todo01.03.2024\\Todo_backEnd\\Todo_backEnd\\Todo_backEnd.csproj",
         "projectName": "Todo_backEnd",
-        "projectPath": "D:\\Todo29.2.2024\\Todo_backEnd\\Todo_backEnd\\Todo_backEnd.csproj",
+        "projectPath": "D:\\Todo01.03.2024\\Todo_backEnd\\Todo_backEnd\\Todo_backEnd.csproj",
         "packagesPath": "C:\\Users\\TN-99345\\.nuget\\packages\\",
-        "outputPath": "D:\\Todo29.2.2024\\Todo_backEnd\\Todo_backEnd\\obj\\",
+        "outputPath": "D:\\Todo01.03.2024\\Todo_backEnd\\Todo_backEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TN-99345\\AppData\\Roaming\\NuGet\\NuGet.Config",

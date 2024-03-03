@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BuSLBq5u99l3suX9UH0x1bbgDu2U8ClMJhiHBSdj4xGaaKQ2p+7k6pk31Sl4tosOPufYfCUuLJOV/YqGRK27Vg==",
+  "dgSpecHash": "aTHg643iPd7O7MlgonZJlS85weyw8F2AYIuMd3U9DWFX4KT2kYeFgkLtOt11pFsUht3l3H2CxsRiZuTCgYi4UA==",
   "success": true,
-  "projectFilePath": "D:\\Todo29.2.2024\\Todo_backEnd\\Todo_backEnd\\Todo_backEnd.csproj",
+  "projectFilePath": "D:\\Todo01.03.2024\\Todo_backEnd\\Todo_backEnd\\Todo_backEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TN-99345\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\TN-99345\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
