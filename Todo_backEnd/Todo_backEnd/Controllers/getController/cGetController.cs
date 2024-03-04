@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace Todo_backEnd.Controllers.getController
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class cGetController : ControllerBase
     {
@@ -26,8 +26,8 @@ namespace Todo_backEnd.Controllers.getController
 
         [Authorize]
         [HttpGet]
-        [Route("GetAllTodos")]
-        public Response GetAllTodos()
+        //[Route("[action]")]
+        public Response GetAll_Todos()
         {
             
                 
